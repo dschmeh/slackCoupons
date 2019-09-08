@@ -1,4 +1,4 @@
-# Slack Slash Comand to Search the Web for Coupons
+# Slack Slash Command to Search the Web for Coupons
 
 ## Usage in Slack
 /coupon {{Webpage or Company}}
